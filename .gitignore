@@ -86,3 +86,10 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Mac specific
+.DS_Store
+
+# Large files
+Apple_Color_Emoji.ttc
+AppleColorEmoji.ttf
